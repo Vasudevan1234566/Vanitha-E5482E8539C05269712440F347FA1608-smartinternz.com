@@ -1,4 +1,4 @@
-class Player(object):
+cclass Player(object):
     def __init__(self, name, age, skills, style=None):
         self.name = name
         self.age = age
